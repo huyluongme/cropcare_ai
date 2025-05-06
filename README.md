@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/1d1ca408-ad35-4909-8293-b3686cbdcfc8
 
   cd cropcare_ai 
 
-  conda create -n cropcare_ai python=3.8
+  conda create -n cropcare_ai python=3.9
 
   conda activate cropcare_ai
 
